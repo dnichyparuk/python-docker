@@ -1,0 +1,1 @@
+docker build -t test-py-app -f Dockerfile .
